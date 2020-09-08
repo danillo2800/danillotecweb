@@ -1,0 +1,21 @@
+body{
+	background:#43ff89;
+}
+p.branco{
+	color: #ffffff;
+	text-align: center;
+	font-family: 'courier new';
+}
+p.vermelho{
+	color:red;
+	text-align: right;
+	font-family: 'verdana';
+}
+p.azul{
+	color:blue;
+	text-align: left;
+	font-family: 'franklin gothic medium';
+}
+h1,h3,h6{
+	color: silver;
+}
